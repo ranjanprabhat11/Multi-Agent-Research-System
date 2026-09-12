@@ -126,9 +126,6 @@ multi-agent-research-system/
 
 ---
 
-## 📄 License
-
-MIT — free to use, modify, and share.
 
 <div align="center">
 
